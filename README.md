@@ -1,7 +1,8 @@
 # Static response, structure factor and pair correlation of the 3D electron gas from DMC
 
 Data accompanying: M. H. Güneş, Y. Yang, V. Gorelov, M. Morales, S. Zhang, M. Gatti, L. Reining,
-"Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo", Phys. Rev. B (in press / ref. TBD).
+"Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo", submitted to Phys. Rev. B.
+Citation metadata: `CITATION.cff`.
 
 All files are plain text, whitespace-separated, one `#` header line naming the columns.
 Hartree atomic units throughout.
@@ -73,3 +74,7 @@ import numpy as np
 x, G, dG, Ne = np.loadtxt("G/G_rs20.txt", unpack=True)
 x, S, dS = np.loadtxt("sk/sk_rs80_Ne250.txt", unpack=True)
 ```
+
+## License
+
+This data set is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`).

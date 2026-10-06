@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below, together with the accompanying paper."
+type: dataset
+title: "Static response, structure factor and pair correlation of the 3D electron gas from diffusion Monte Carlo"
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/mgunes1/3DHEG-DMC-static-response-data"
+keywords:
+  - homogeneous electron gas
+  - diffusion Monte Carlo
+  - static density response
+  - local field factor
+  - static structure factor
+  - pair correlation function
+authors:
+  - family-names: Güneş
+    given-names: Muhammed Hüseyin
+    orcid: "https://orcid.org/0000-0002-0805-3225"
+    affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF)"
+  - family-names: Yang
+    given-names: Yubo
+    affiliation: "Department of Physics and Astronomy, Hofstra University, Hempstead, New York 11549, USA"
+  - family-names: Gorelov
+    given-names: Vitaly
+    affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF)"
+  - family-names: Morales
+    given-names: Miguel
+    affiliation: "Center for Computational Quantum Physics, Flatiron Institute, 162 5th Avenue, New York, New York, USA"
+  - family-names: Zhang
+    given-names: Shiwei
+    affiliation: "Center for Computational Quantum Physics, Flatiron Institute, 162 5th Avenue, New York, New York, USA"
+  - family-names: Gatti
+    given-names: Matteo
+    affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF); Synchrotron SOLEIL, L'Orme des Merisiers, Saint-Aubin, BP 48, F-91192 Gif-sur-Yvette, France"
+  - family-names: Reining
+    given-names: Lucia
+    affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF)"
+preferred-citation:
+  type: article
+  title: "Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo"
+  journal: "Physical Review B"
+  status: submitted
+  authors:
+    - family-names: Güneş
+      given-names: Muhammed Hüseyin
+      orcid: "https://orcid.org/0000-0002-0805-3225"
+    - family-names: Yang
+      given-names: Yubo
+    - family-names: Gorelov
+      given-names: Vitaly
+    - family-names: Morales
+      given-names: Miguel
+    - family-names: Zhang
+      given-names: Shiwei
+    - family-names: Gatti
+      given-names: Matteo
+    - family-names: Reining
+      given-names: Lucia
