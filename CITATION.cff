@@ -24,10 +24,7 @@ authors:
     given-names: Vitaly
     affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF)"
   - family-names: Morales
-    given-names: Miguel
-    affiliation: "Center for Computational Quantum Physics, Flatiron Institute, 162 5th Avenue, New York, New York, USA"
-  - family-names: Zhang
-    given-names: Shiwei
+    given-names: Miguel A.
     affiliation: "Center for Computational Quantum Physics, Flatiron Institute, 162 5th Avenue, New York, New York, USA"
   - family-names: Gatti
     given-names: Matteo
@@ -35,6 +32,9 @@ authors:
   - family-names: Reining
     given-names: Lucia
     affiliation: "LSI, CNRS, CEA/DRF/IRAMIS, École Polytechnique, Institut Polytechnique de Paris, F-91120 Palaiseau, France; European Theoretical Spectroscopy Facility (ETSF)"
+  - family-names: Zhang
+    given-names: Shiwei
+    affiliation: "Center for Computational Quantum Physics, Flatiron Institute, 162 5th Avenue, New York, New York, USA"
 preferred-citation:
   type: article
   title: "Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo"
@@ -49,10 +49,35 @@ preferred-citation:
     - family-names: Gorelov
       given-names: Vitaly
     - family-names: Morales
-      given-names: Miguel
-    - family-names: Zhang
-      given-names: Shiwei
+      given-names: Miguel A.
     - family-names: Gatti
       given-names: Matteo
     - family-names: Reining
       given-names: Lucia
+    - family-names: Zhang
+      given-names: Shiwei
+references:
+  - type: article
+    title: "Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas"
+    journal: "Physical Review Letters"
+    status: submitted
+    identifiers:
+      - type: url
+        value: "https://arxiv.org/abs/2609.10006"
+        description: "arXiv preprint"
+    authors:
+      - family-names: Güneş
+        given-names: Muhammed H.
+        orcid: "https://orcid.org/0000-0002-0805-3225"
+      - family-names: Yang
+        given-names: Yubo
+      - family-names: Gorelov
+        given-names: Vitaly
+      - family-names: Morales
+        given-names: Miguel A.
+      - family-names: Gatti
+        given-names: Matteo
+      - family-names: Reining
+        given-names: Lucia
+      - family-names: Zhang
+        given-names: Shiwei

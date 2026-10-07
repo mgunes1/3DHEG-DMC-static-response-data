@@ -1,7 +1,13 @@
 # Static response, structure factor and pair correlation of the 3D electron gas from DMC
 
-Data accompanying: M. H. Güneş, Y. Yang, V. Gorelov, M. Morales, S. Zhang, M. Gatti, L. Reining,
-"Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo", submitted to Phys. Rev. B.
+Data accompanying the joint submission:
+
+- M. H. Güneş, Y. Yang, V. Gorelov, M. A. Morales, M. Gatti, L. Reining, S. Zhang,
+  "Static Response of the Strongly Coupled Electron Gas from Diffusion Monte Carlo", submitted to Phys. Rev. B.
+- M. H. Güneş, Y. Yang, V. Gorelov, M. A. Morales, M. Gatti, L. Reining, S. Zhang,
+  "Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas",
+  submitted to Phys. Rev. Lett., [arXiv:2609.10006](https://arxiv.org/abs/2609.10006).
+
 Citation metadata: `CITATION.cff`.
 
 All files are plain text, whitespace-separated, one `#` header line naming the columns.
