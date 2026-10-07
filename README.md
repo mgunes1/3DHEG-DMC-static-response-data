@@ -33,15 +33,15 @@ Available rs values:
 
 | quantity | rs | Ne |
 |---|---|---|
-| G, χ | 2, 5, 10, 70, 90 | 162 |
-| G, χ | 20, 50, 100 | 54 |
-| G, χ | 30 | mixed: 16 points with Ne = 54, 6 points with Ne = 162 (q/kF ≈ 3.0–3.9) |
-| S | 20, 30, 50, 80, 90 | 162 |
-| S | 80, 90, 100, 110 | 250 |
-| g | 20, 30, 50, 80, 90 | 162 |
-| g | 5 | 54 |
+| G(q), χ(q) | 2, 5, 10, 70, 90 | 162 |
+| G(q), χ(q) | 20, 50, 100 | 54 |
+| G(q), χ(q) | 30 | mixed: 16 points with Ne = 54, 6 points with Ne = 162 (q/kF ≈ 3.0–3.9) |
+| S(q) | 20, 30, 50, 80, 90 | 162 |
+| S(q) | 80, 90, 100, 110 | 250 |
+| g(r) | 20, 30, 50, 80, 90 | 162 |
+| g(r) | 5 | 54 |
 
-For G and χ, Ne is given per row (`Ne` column). Since L(Ne=162)/L(Ne=54) = 3^(1/3), no q value is shared by the two sizes.
+For G(q) and χ(q), Ne is given per row (`Ne` column). Since L(Ne=162)/L(Ne=54) = 3^(1/3), no q value is shared by the two sizes.
 
 ## G(q) and χ(q)
 
