@@ -34,8 +34,9 @@ Available rs values:
 | quantity | rs | Ne |
 |---|---|---|
 | G(q), χ(q) | 2, 5, 10, 70, 90 | 162 |
-| G(q), χ(q) | 20, 50, 100 | 54 |
+| G(q), χ(q) | 20, 100 | 54 |
 | G(q), χ(q) | 30 | mixed: 16 points with Ne = 54, 6 points with Ne = 162 (q/kF ≈ 3.0–3.9) |
+| G(q), χ(q) | 50 | mixed: 18 points with Ne = 54, 4 points with Ne = 162 (q/kF ≈ 1.86–2.17) |
 | S(q) | 20, 30, 50, 80, 90 | 162 |
 | S(q) | 80, 90, 100, 110 | 250 |
 | g(r) | 20, 30, 50, 80, 90 | 162 |
